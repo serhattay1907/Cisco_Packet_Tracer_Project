@@ -1,6 +1,6 @@
 # 🌐 CCNA: Introduction to Networks — Packet Tracer Labs
 
-Completed Cisco Packet Tracer activities from the **Cisco Networking Academy CCNA: Introduction to Networks (ITN)** course, which I finished with a certificate.
+Network project and completed Packet Tracer activities from the **Cisco Networking Academy CCNA: Introduction to Networks (ITN)** course, which I finished with a certificate.
 
 ## 🗺️ Final topology
 ![Network topology](Cisco_Diagram.png)
@@ -17,8 +17,13 @@ Full project file: [`Cisco_packet_tracer_Serhat_Tay.pkt`](Cisco_packet_tracer_Se
 | 11 · IPv4 subnetting | Subnetting scenarios, VLSM design and implementation |
 | 12–13 · IPv6 & ICMP | IPv6 addressing schemes, dual-stack verification, ping & traceroute troubleshooting |
 
-## 📂 Structure
-All activity files are in [`labs/`](labs), named by their NetAcad activity number (e.g. `11.10.1` = Module 11, VLSM design).
+## 📂 Files
+| File | What it is |
+|---|---|
+| [`Cisco_packet_tracer_Serhat_Tay.pkt`](Cisco_packet_tracer_Serhat_Tay.pkt) | My final network project |
+| [`Cisco_Diagram.png`](Cisco_Diagram.png) | Topology diagram of the final project |
+
+The course activity files (`.pka`) belong to Cisco Networking Academy and are not redistributed here; the table above lists the modules I completed.
 
 ## ▶️ Open
-Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and open any `.pka` / `.pkt` file.
+Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and open the `.pkt` file.
