@@ -2,6 +2,11 @@
 
 Completed Cisco Packet Tracer activities from the **Cisco Networking Academy CCNA: Introduction to Networks (ITN)** course, which I finished with a certificate.
 
+## 🗺️ Final topology
+![Network topology](Cisco_Diagram.png)
+
+Full project file: [`Cisco_packet_tracer_Serhat_Tay.pkt`](Cisco_packet_tracer_Serhat_Tay.pkt)
+
 ## 🧩 Topics covered
 | Module | Activities |
 |---|---|
